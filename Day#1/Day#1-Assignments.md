@@ -5,7 +5,7 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [x] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
+| <ul><li>- [x] </li></ul> | [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo |
 | <ul><li>- [ ] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
 | <ul><li>- [ ] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
 | <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
@@ -24,8 +24,10 @@
 > [!CAUTION]
 > Pls don't copy from others. Marks will be reduced for both students
 
-#### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
+#### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > Add your answer here!
+> - Completion Badge
+> - Completion Screenshot	
 
 ***
 
@@ -49,7 +51,12 @@
 
 ***
 
-#### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
+#### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
+- For example:
+- Amazon Prime (Hosted on AWS)
+  - Logo: Place the logo here
+  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+
 > Add your answer here!
 
 ***
