@@ -57,7 +57,12 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+> NETFLIX hosted on AWS
+> logo: ![image](https://github.com/user-attachments/assets/bd48b071-e308-4c60-840f-afa266dd5a59)
+> detalis: 
+Netflix is a leading streaming platform that provides a wide range of movies, TV series, and original content to audiences across the globe.
+
+
 
 ***
 
