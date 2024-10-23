@@ -82,6 +82,7 @@
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/626a3350-c99a-463e-b56c-18c2b5c08e01)
+> https://www.linkedin.com/posts/vishal-s-598000280_i-had-a-one-credit-session-on-the-topic-of-activity-7254882687730008065-aoQp?utm_source=social_share_wa&utm_medium=member_desktop_web
 
 ***
