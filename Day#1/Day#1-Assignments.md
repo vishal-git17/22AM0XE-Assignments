@@ -76,6 +76,6 @@ Netflix is a leading streaming platform that provides a wide range of movies, TV
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/4e982837-42cd-4bb8-abf7-363b93d95d3e)
 
 ***
