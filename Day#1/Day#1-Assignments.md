@@ -18,7 +18,7 @@
 ### Day 1 Assignments - Answers and Screenshots
 
 > [!WARNING]
-> Pls submit the correct screenshots
+> Pls submit the correct screenshot
 
 > [!CAUTION]
 > Pls don't copy from others. Marks will be reduced for both students
@@ -32,7 +32,10 @@
 ***
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/a018817c-d36c-44eb-9a61-87728a62119d)
+> ![image](https://github.com/user-attachments/assets/641dc952-e582-4206-85c3-49596bf42cff)
+
+
 
 ***
 
