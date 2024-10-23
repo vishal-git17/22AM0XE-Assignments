@@ -45,6 +45,14 @@
 > - Write Python code to print "Hello, World!" in the notebook.
 > - Import the NumPy library and create a 2x2 matrix, then print it.
 > - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+> - ![image](https://github.com/user-attachments/assets/be2f1242-e496-47f0-90ee-b38701d6200f)
+> - ![image](https://github.com/user-attachments/assets/c16ec5f6-b955-4add-8103-dd723f1d579e)
+> - ![image](https://github.com/user-attachments/assets/978e6908-c16e-4311-a40a-79d471248e95)
+> - ![image](https://github.com/user-attachments/assets/ac9dd38a-d72a-4a2a-b1ed-20b98ca6089c)
+
+
+
+
 
 ***
 
@@ -60,7 +68,10 @@ Netflix is a leading streaming platform that provides a wide range of movies, TV
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/a7779b7f-77de-46d7-9ca2-2f7941a2e02c)
+![image](https://github.com/user-attachments/assets/cc0880a2-d996-44a4-b90d-77602552c735)
+> 
+
 
 ***
 
